@@ -1,0 +1,4 @@
+https://github.com/kvala8585-crypto/AI-Customer-Support-Automation
+uvicorn app.main:app --host 0.0.0.0 --port 10000
+https://ai-customer-support-automation-ecxf.onrender.com/
+https://ai-customer-support-automation-ecxf.onrender.com/docs
