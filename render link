@@ -2,3 +2,9 @@ https://github.com/kvala8585-crypto/AI-Customer-Support-Automation
 uvicorn app.main:app --host 0.0.0.0 --port 10000
 https://ai-customer-support-automation-ecxf.onrender.com/
 https://ai-customer-support-automation-ecxf.onrender.com/docs
+redeploylink:https://ai-customer-support-automation-1-nqxb.onrender.com
+http://localhost:5678/webhook-test/support-bot
+http://localhost:5678/webhook/support-bot
+http://localhost:5678/webhook-test/supportbot2
+http://localhost:5678/webhook/supportbot2
+zapier:https://hooks.zapier.com/hooks/catch/27370622/uvcoqhf/
